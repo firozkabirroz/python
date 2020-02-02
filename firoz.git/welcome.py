@@ -1,0 +1,1 @@
+print('it is  made and push by firoz kabir')
